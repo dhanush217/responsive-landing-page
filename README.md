@@ -6,7 +6,7 @@ A responsive landing page developed as part of the **Web Development Intern Assi
 
 ## 📌 Live Demo
 
-🔗 
+🔗 https://github.com/dhanush217/responsive-landing-page
 
 ---
 
